@@ -64,6 +64,7 @@ Credit to Mr. Noad & 2772/Matt for a lot of help throughout this project
 * Fixed advanced aim settings error when using 0 X/Y Variation
 * Color Picker is now similar to most mainstream cheats, less ugly
 * Added gaussian blur option when menu is open
+* Added hold target aimbot option
 
 
 1.7 Update 4/25/2020
